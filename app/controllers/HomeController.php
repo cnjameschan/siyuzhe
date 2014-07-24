@@ -21,7 +21,7 @@ class HomeController extends BaseController {
 		return View::make('hello');
 	}
         public function test(){
-            echo "test控制器";
+            echo "test控制器  现在测试github";
         }
                 
 }
